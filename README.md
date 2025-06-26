@@ -53,20 +53,21 @@ menu-digital/
 ```
 
 🧠 Aprendizajes
+
 Con este proyecto pude practicar y aplicar:
 
-Uso de imágenes de fondo con background-image y linear-gradient.
+Uso de imágenes de fondo con `background-image` y `linear-gradient`.
 
 Estilizado de botones con transiciones.
 
-Maquetación básica con margin, padding, border-radius, y box-shadow.
+Maquetación básica con `margin`, `padding`, `border-radius`, y `box-shadow`.
 
 Buenas prácticas de organización de archivos.
 
 ⚙️ Cómo correrlo localmente
-
+```
 git clone https://github.com/lautioliva/menu-digital.git
-
+```
 🚀 Próximas mejoras (ideas)
 Agregar interactividad con JavaScript 
 
